@@ -12,11 +12,11 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [
+global.owner = [528123422244
 ['528111898330', 'BOTBRYSN', true], 
 ['528123422244', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['528180801140', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+['528123422244', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
 ['50664668406', 'My Kim Dan', true],
 ['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
 
@@ -80,48 +80,33 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝘽𝙍𝙔𝙎𝙉 𝘽𝙊𝙏 𝙊𝙁𝙁'
+global.author = '𝙰𝚇𝙸𝙴𝙻 𝙱𝙱'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['528123422244', '𝙰𝚇𝙸𝙴𝙻 𝙱𝙱 💻', 1], 
+['528123422244', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.desc = '𝘽𝙍𝙔𝙎𝙉 𝘽𝙊𝙏 𝙊𝙁𝙁' //agrega una descripción corta
+global.desc2 = 'EL DUEÑO DE 𝘽𝙍𝙔𝙎𝙉 𝘽𝙊𝙏 𝙊𝙁𝙁 ES AXIELBB' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.country = '🇲🇽🇲🇽' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.0.2'
 global.vsJB = '4.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = '𝘽𝙍𝙔𝙎𝙉𝘽𝙊𝙏-𝙊𝙁𝙁'
+global.yt = 'https://www.youtube.com/@SHARWRYFLOW'
+global.yt2 = 'https://www.youtube.com/@SHARWRYFLOW'
+global.ig = 'https://instagram.com/axiel.bb?igshid=ZDc4ODBmNjlmNQ=='
+global.md = 'https://github.com/ShawryFow/BRYSNBOT'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/EnQgSZuMLFAAfWtuCBE0G3' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/ImTnZ3pvmI0Dc5nQNlxVaj' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/GRLe6IF8Sec7xbJsSBFbla' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
-
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = '𝘽𝙍𝙔𝙎𝙉𝘽𝙊𝙏-𝙊𝙁𝙁 : 𝙰𝚇𝙸𝙴𝙻 𝙱𝙱'
+global.igfg = '𝘽𝙍𝙔𝙎𝙉𝘽𝙊𝙏-𝙊𝙁𝙁'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
@@ -140,26 +125,17 @@ global.imagen11 = fs.readFileSync('./media/menus/img10.jpg')
 global.imagen12 = fs.readFileSync('./media/menus/img11.jpg')
 global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
-global.img = 'https://i.imgur.com/AwlL9kc.jpeg'
-global.img2 = 'https://i.imgur.com/p18q1Ok.jpeg'
-global.img3 = 'https://i.imgur.com/01Z8a0a.jpg' //ft rectangular
-global.img5 = 'https://i.imgur.com/80uz37R.jpeg'
-global.img6 = 'https://i.imgur.com/3zSvnGY.jpeg'
-global.img7 = 'https://i.imgur.com/WY4r6up.jpeg'
-global.img8 = 'https://i.imgur.com/qCO3RYa.jpeg'
-global.img9 = 'https://i.imgur.com/dWk51FS.jpeg'
-global.img10 = 'https://i.imgur.com/T4NjKMi.jpeg'
-global.img11 = 'https://i.imgur.com/jqyWSlh.jpeg'
-global.img12 = 'https://i.imgur.com/mpCRttm.jpeg'
-global.img13 = 'https://i.imgur.com/O04epJI.jpeg'
-global.img14 = 'https://i.imgur.com/jfbuJRU.jpeg'
-global.img15 = 'https://i.imgur.com/DzqUXkW.jpeg'
-global.img17 = 'https://i.imgur.com/Y3ZWq7z.jpeg'
-global.img18 = 'https://i.imgur.com/kaUN1Nz.jpeg'
-global.img19 = 'https://i.imgur.com/7yJ22hJ.jpeg'
-global.img20 = 'https://i.imgur.com/qcD353P.jpeg'
-global.img21 = 'https://i.imgur.com/3fJTaX6.jpeg'
-global.img21 = 'https://i.imgur.com/akofqcE.jpeg' //paypal
+global.img = 'https://images.app.goo.gl/7GfMchV3hhSxzAca7'
+global.img2 = 'https://images.app.goo.gl/BjLAVWPjkpTQXZ4j7'
+global.img3 = 'https://images.app.goo.gl/zoyadguNejfKk96M6' //ft rectangular
+global.img5 = 'https://images.app.goo.gl/KhjMeUe8Yb3qcizs8'
+global.img6 = 'https://images.app.goo.gl/TUpQYwJvBvH4mtgq5'
+global.img7 = 'https://images.app.goo.gl/rgyLQdJdGMGAeUfS7'
+global.img8 = 'https://images.app.goo.gl/Ew9jNNQ7Gbd7inqV7'
+global.img9 = 'https://images.app.goo.gl/CDkjmPn3JaGMD9zP8'
+global.img10 = 'https://images.app.goo.gl/GC77jnzEcucgVBtaA'
+global.img11 = 'https://images.app.goo.gl/gKm9NkPv977Smfc99'
+global.img12 = 'https://images.app.goo.gl/kN6SMbuVLzau6acp9'
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb]
