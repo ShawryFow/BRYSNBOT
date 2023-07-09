@@ -48,13 +48,13 @@ const options = {
 cfonts.say('gatabot\nlite\nmd'.trim(), options)
 
 } catch (err) {
-say('GataBot\nLite\nMD', {
+say('BRYSN\nOFF\nBOT', {
  font: 'chrome',
  align: 'center',
  gradient: ['red', 'magenta']
 })}
 
-say(`Desarrollado por @gata_dios`.trim(), {
+say(`Desarrollado por @axiel_bb`.trim(), {
  font: 'console',
  align: 'center',
  colors: ['candy']
