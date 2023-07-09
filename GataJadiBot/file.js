@@ -1,1 +1,1 @@
-//GataBotLite-MD
+//BRYSNBOT-OFF
