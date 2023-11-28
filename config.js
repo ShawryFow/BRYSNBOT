@@ -14,8 +14,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [528123422244
 ['528111898330', 'BOTBRYSN', true], 
-['528123422244', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['528180801140', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
+['528123422244', 'axiel.bb', true],  
+['8123422244', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
 ['528123422244', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
 ['50664668406', 'My Kim Dan', true],
 ['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
